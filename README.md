@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mreza2020
 - 👀 I’m interested in Server and PWA development
 - 🌱 I’m currently learning GO and AI
-- 📫 How to reach me by email mreza_40@outlook.com
+- 📫 How to reach me by email mreza_4040@outlook.com
 - ⚡ Fun fact: When life puts you in difficult situations, don't say: Why me? Tell me, I will prove that I can
 # languages
 ![alt - Github](https://img.shields.io/badge/go-%233498DB?style=for-the-badge&logo=go&logoColor=white
