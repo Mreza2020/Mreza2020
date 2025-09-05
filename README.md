@@ -1,19 +1,23 @@
-- 👋 Hi, I’m Mreza2020
-- 👀 I’m interested in Server and PWA development
-- 🌱 I’m currently learning GO and AI
-- 📫 How to reach me by email mreza_4040@outlook.com
-- ⚡ Fun fact: When life puts you in difficult situations, don't say: Why me? Tell me, I will prove that I can
+# Mohammad Reza 👋
+## Software Engineer | backend development| DevOps Engineer
+Backend developer My main programming language is Golang
+I have a deep understanding of software design principles and always strive to write clean, maintainable, and testable code. Eager to learn and share. Passionate about ideation, problem solving, and teamwork.
+
 # languages
-![alt - Github](https://img.shields.io/badge/go-%233498DB?style=for-the-badge&logo=go&logoColor=white
-)
-![alt - Github](https://img.shields.io/badge/HTML5-%23FF4500?style=for-the-badge&logo=HTML5&logoColor=white
-)
-![alt - Github](https://img.shields.io/badge/Git-%23E71D36?style=for-the-badge&logo=git&logoColor=white
-)
-![alt - Github](https://img.shields.io/badge/css3-%2303A9F4?style=for-the-badge&logo=css3&logoColor=white
-)
-![alt - Github](https://img.shields.io/badge/python-%230066CC?style=for-the-badge&logo=python&logoColor=white
-)
+
+### **BACKEND DOMINANCE**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### **DATABASE MASTERY**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![postgresql ](https://img.shields.io/badge/Postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **DEVOPS & ARCHITECTURE**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-4285F4?style=for-the-badge&logo=gin&logoColor=white)
+
 <!---
 Mreza2020/Mreza2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
